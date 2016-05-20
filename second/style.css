@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+}
+.col1{
+	background-color: #0083ff;
+	width:33.33%;
+	height:100vh;
+	display: inline-block;
+}
+.col2{
+	background-color: #99e8c5;
+	width: 33.33%;
+	height: 100vh;
+	display: inline-block;
+
+}
+.container{
+	display: inline-block;
+	width: 33.33%;
+	height:100vh;
+
+}
+.col3{
+	background-color: #b1e866;
+	
+	height:80%;
+	
+}
+.col4{
+	
+	background-color: red;
+	
+	height:20%;
+	
+}
